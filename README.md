@@ -96,7 +96,7 @@ Aucune dépendance de build : site léger et rapide.
 
 ---
 
-## Améliorations possibles (roadmap)
+## Futures améliorations (roadmap)
 
 - [ ] Animations plus riches (CSS avancées ou GSAP)
 - [ ] Mode clair
