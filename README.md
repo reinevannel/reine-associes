@@ -113,13 +113,11 @@ Aucune dépendance de build → site léger, rapide, maîtrisé.
 ## 📜 Licence
 
 Code libre pour usage **personnel**.  
-Identité, textes et visuels : démonstration uniquement.
-
----
 
 ## ✍️ Author
 
 🦋 **Reine Vannel Studio**  
 UX Designer & Front-End Developer  
 
-**Created with ❤️ — during my Front-End Developer courses on Codecademy.**
+**Créé avec ❤️ — durant mes cours de Front-End Developer sur Codecademy.**
+
